@@ -10,9 +10,9 @@
     "postinstall": "prisma generate"
   },
   "author": {
-    "name": "Sanidhya Kumar Verma",
-    "email": "sanidhya.verma12345@gmail.com",
-    "url": "https://github.com/sanidhyy"
+    "name": "Carter Grant",
+    "email": "cartergrant135@gmail.com",
+    "url": "https://github.com/cartergrant599"
   },
   "description": "The connected workspace where better, faster work happens.",
   "keywords": [
@@ -59,21 +59,21 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/sanidhyy/genius-ai.git"
+    "url": "https://github.com/cartergrant599/genius-ai.git"
   },
-  "homepage": "https://github.com/sanidhyy/genius-ai#readme",
+  "homepage": "https://github.com/cartergrant599/genius-ai#readme",
   "bugs": {
-    "url": "https://github.com/sanidhyy/genius-ai/issues",
-    "email": "sanidhya.verma12345@gmail.com"
+    "url": "https://github.com/cartergrant599/genius-ai/issues",
+    "email": "cartergrant135@gmail.com"
   },
   "funding": [
     {
       "type": "patreon",
-      "url": "https://www.patreon.com/sanidhy"
+      "url": "https://www.patreon.com/cartergrant"
     },
     {
       "type": "Buy me a coffee",
-      "url": "https://www.buymeacoffee.com/sanidhy"
+      "url": "https://www.buymeacoffee.com/cartergrant"
     }
   ],
   "dependencies": {

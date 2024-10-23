@@ -38,11 +38,11 @@ export const siteConfig: Metadata = {
     "css",
   ] as Array<string>,
   authors: {
-    name: "Sanidhya Kumar Verma",
-    url: "https://github.com/sanidhyy",
+    name: "Carter Grant",
+    url: "https://github.com/cartergrant599",
   },
 } as const;
 
 export const links = {
-  sourceCode: "https://github.com/sanidhyy/genius-ai",
+  sourceCode: "https://github.com/cartergrant599/genius-ai",
 } as const;
